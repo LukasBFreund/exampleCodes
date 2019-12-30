@@ -19,7 +19,7 @@ Two codes illustrating how to implement the endogenous gridpoint and envelope co
 ### Global Projection
 Example code illustrating how to implement a global projection algorithm to solve a simple stochastic growth model. Here I've used a collocation approach, but there are various alternatives.
 
-### Parameterized Expectations Algorithm (PEA)
+### Parameterized Expectations Algorithm
 Example code illustrating how to use a simulation-based algorithm to obtain a global solution for a simple stochastic growth model with irreversible investment.
 
 ## Useful Snippets
