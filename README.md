@@ -6,6 +6,8 @@ I find the linear time iteration method set out in Rendahl (2017) a neat and fle
 
 modelNKGaliCh3LTI.m: illustrates the method by solving the baseline NK model set out in Gali's (2015) textbook, Ch. 3.
 
+### Value Function Iteration
+
 ### Global Projection
 
 ### Parameterized Expectations Algorithm (PEA)
