@@ -1,7 +1,7 @@
 # Example Codes
-A collection of codes that illustrate different numerical methods etc.
+A collection of codes that illustrate different numerical solution methods etc.
 
-The motivation 
+The motivation for uploading these materials is quite straightforward: When learning new tools/methods/... I find it enormously helpful to draw on the example codes made available by kind researchers. This is an attempt to contribute to that culture of sharing.
 
 ## Numerical Methods
 ### Linear Time Iteration
