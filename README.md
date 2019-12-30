@@ -14,7 +14,7 @@ I find the linear time iteration method set out in Rendahl (2017) a neat and fle
 Here I illustrate the method by solving the baseline NK model set out in Gali's (2015) textbook, Ch. 3.
 
 ### Value Function Iteration
-Two codes illustrating how to implement the endogenous gridpoint and envelope condition variants of value function iteration, using a simple stochastic growth model as an example.
+Two codes illustrating how to implement the endogenous gridpoint and envelope condition variants of value function iteration, using a simple stochastic growth model as an example. This closely follows Maliar and Maliar (2013).
 
 ### Global Projection
 Example code illustrating how to implement a global projection algorithm to solve a simple stochastic growth model. Here I've used a collocation approach, but there are various alternatives.
