@@ -17,7 +17,7 @@ Here I illustrate the method by solving the baseline NK model set out in Gali's 
 Two codes illustrating how to implement the endogenous gridpoint and envelope condition variants of value function iteration, using a simple stochastic growth model as an example.
 
 ### Global Projection
-Example code illustrating how to implement a global projection algorithm to solve a simple stochastic growth model as an example. Here I've used a collocation approach, but there are various alternatives.
+Example code illustrating how to implement a global projection algorithm to solve a simple stochastic growth model. Here I've used a collocation approach, but there are various alternatives.
 
 ### Parameterized Expectations Algorithm (PEA)
 Coming soon, just need to add a few comments.
