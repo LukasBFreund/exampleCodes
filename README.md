@@ -21,8 +21,3 @@ Example code illustrating how to implement a global projection algorithm to solv
 
 ### Parameterized Expectations Algorithm
 Example code illustrating how to use a simulation-based algorithm to obtain a global solution for a simple stochastic growth model with irreversible investment.
-
-## Useful Snippets
-
-### Stability Maps in Dynare
-This code creates pretty stability maps based on the Dynare toolbox, i.e., regions of saddle path stability, indeterminacy and instability.
